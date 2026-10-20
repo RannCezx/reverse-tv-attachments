@@ -1,0 +1,174 @@
+﻿!This program cannot be run in DOS mode.
+Rich
+.text
+`.rdata
+@.data
+.rsrc
+@.reloc
+=l3@
+j+hp3@
+5l3@
+Y_^[
+Y_^[
+h8%@
+Y_^[
+==3@
+u"h@3@
+hL3@
+hX%@
+Y_^[
+=<3@
+=@3@
+h@3@
+hX3@
+>csm
+%`3@
+%d3@
+SVW3
+Genu
+5ineI
+5ntel
+t#=`
+=h3@
+=h3@
+=h3@
+=h3@
+5d3@
+_^[3
+%@ @
+%4 @
+%8 @
+%< @
+%X @
+%l @
+%h @
+%d @
+%p @
+%` @
+%P @
+%H @
+%t @
+%x @
+%| @
+=d3@
+congratulation!
+fake input..
+GCTL
+.text$mn
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIAC
+.CRT$XIZ
+.CRT$XPA
+.CRT$XPZ
+.CRT$XTA
+.CRT$XTZ
+.rdata
+.rdata$sxdata
+.rdata$voltmd
+.rdata$zzzdbg
+.rtc$IAA
+.rtc$IZZ
+.rtc$TAA
+.rtc$TZZ
+.xdata$x
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.data
+.bss
+.rsrc$01
+.rsrc$02
+_except_handler4_common
+__current_exception
+__current_exception_context
+memset
+VCRUNTIME140.dll
+srand
+__acrt_iob_func
+rand
+__stdio_common_vfprintf
+__stdio_common_vfscanf
+_seh_filter_exe
+_set_app_type
+__setusermatherr
+_configure_narrow_argv
+_initialize_narrow_environment
+_get_initial_narrow_environment
+_initterm
+_initterm_e
+exit
+_exit
+_set_fmode
+__p___argc
+__p___argv
+_cexit
+_c_exit
+_register_thread_local_exe_atexit_callback
+_configthreadlocale
+_set_new_mode
+__p__commode
+_initialize_onexit_table
+_register_onexit_function
+_crt_atexit
+_controlfp_s
+terminate
+api-ms-win-crt-utility-l1-1-0.dll
+api-ms-win-crt-stdio-l1-1-0.dll
+api-ms-win-crt-runtime-l1-1-0.dll
+api-ms-win-crt-math-l1-1-0.dll
+api-ms-win-crt-locale-l1-1-0.dll
+api-ms-win-crt-heap-l1-1-0.dll
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetCurrentProcess
+TerminateProcess
+IsProcessorFeaturePresent
+QueryPerformanceCounter
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+InitializeSListHead
+IsDebuggerPresent
+GetModuleHandleW
+KERNEL32.dll
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level='asInvoker' uiAccess='false' />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+090]0
+1$191@1Q1b1k1{1
+172<2M2
+2!3L3a3f3k3
+5 5'5.555<5D5L5T5`5i5n5t5~5
+5!6M6
+7!7'797C7
+718@8I8V8l8
+9%989
+:$:.:N:
+;%;*;=;Q;n;
+;V<_<g<
+=,=5=W=^=m=w=}=
+1@2X2,505L5P5l5p5
+
+
+
+
+ntelineI
+
+
+
+
+
